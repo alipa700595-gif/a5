@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://basilbrothcamp.com/sitemap.xml
